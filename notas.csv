@@ -60,7 +60,6 @@ ID_Aluno,Nome,Disciplina,Nota,Data_Avaliacao,Semestre,Status,Falta
 28,Beatriz Nogueira,Química,7.0,15/09/2024,2º Semestre,Aprovado,4
 29,Cauê Martins,Química,5.5,15/09/2024,2º Semestre,Reprovado,8
 30,Daniela Farias,Química,9.6,15/09/2024,2º Semestre,Aprovado,0
-ID_Aluno,Nome,Disciplina,Nota,Data_Avaliacao,Semestre,Status,Falta
 1,Ana Silva,Matemática,9.2,10/02/2025,3º Semestre,Aprovado,0
 2,Bruno Santos,Matemática,7.0,10/02/2025,3º Semestre,Aprovado,3
 3,Carla Oliveira,Matemática,6.1,10/02/2025,3º Semestre,Aprovado,6
@@ -91,7 +90,6 @@ ID_Aluno,Nome,Disciplina,Nota,Data_Avaliacao,Semestre,Status,Falta
 28,Beatriz Nogueira,Química,7.5,07/03/2025,3º Semestre,Aprovado,3
 29,Cauê Martins,Química,6.0,07/03/2025,3º Semestre,Aprovado,7
 30,Daniela Farias,Química,9.8,07/03/2025,3º Semestre,Aprovado,0
-ID_Aluno,Nome,Disciplina,Nota,Data_Avaliacao,Semestre,Status,Falta
 1,Ana Silva,Matemática,9.5,05/07/2025,4º Semestre,Aprovado,0
 2,Bruno Santos,Matemática,7.4,05/07/2025,4º Semestre,Aprovado,3
 3,Carla Oliveira,Matemática,6.8,05/07/2025,4º Semestre,Aprovado,5
